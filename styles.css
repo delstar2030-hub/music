@@ -4,7 +4,8 @@ body{
    border:10px solid black;
 }
 div {
-  height: 700px;
+  height: 200px;
   width: 100%;
-  background-color: powderblue;
+  max-width:900px;
+  background-color: rgb(73, 113, 119);
 }
