@@ -1,15 +1,37 @@
-# WanderWithMe — Travel Blog
+# 🌍 Angel's Travel Blog
 
-Simple static travel blog built with HTML & CSS.
+Welcome to **Angel's Travel Diary** — a simple and responsive travel blog website built using HTML and CSS.
 
-Live demo: https://delstar2030-hub.github.io/music/
+This project showcases beautiful travel destinations using Unsplash images and demonstrates layout design using Flexbox.
 
-How to view locally:
-- Open `index.html` in your browser (or use VS Code **Live Server**).
+---
 
-Files:
-- `index.html` — main page
-- `styles.css` — styling
-- `code.txt` — extra content / notes
+## 🚀 Live Demo
 
-Author: You
+🔗 View the live project here:  
+https://delstar2030-hub.github.io/music/
+
+---
+
+## 📌 Features
+
+- Responsive Navigation Bar (Home, About, Contact)
+- Hero Section with background image
+- Travel Blog Cards with hover effects
+- Clean and modern layout
+- Responsive design using Flexbox
+- Styled footer section
+
+---
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- Flexbox
+- Unsplash Images
+
+---
+
+## 📂 Project Structure
+
