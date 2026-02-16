@@ -9,7 +9,7 @@
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  background-color: #f4f4f4;
+  background-color: #333;
 }
 
 /* ========================= */
@@ -20,7 +20,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #1e3d59;
+  background-color: dark green;
   padding: 15px 50px;
 }
 
@@ -54,13 +54,21 @@ body {
 .hero {
   background: url("https://images.unsplash.com/photo-1501785888041-af3ef285b470") no-repeat center center/cover;
   height: 60vh;
-  color: white;
+  color: darkmagenta;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
+  text-size:22px;
+  <button>start exploring</button>
+  background-color: orange;
+  white-text:2px;
+  padding: 50px;
+  ronded-corners:3px;
+  hover-effect:slightly darker orange;
 }
+
 
 .hero h2 {
   font-size: 40px;
@@ -93,6 +101,9 @@ body {
 
 .blog-card:hover {
   transform: scale(1.05);
+  slight: zoom 509px;
+  text-shadow: black 2px;
+
 }
 
 .blog-card img {
@@ -108,6 +119,11 @@ body {
 .blog-card p {
   padding: 0 15px 20px 15px;
 }
+
+  .blog-card h4{ 
+    width:300px;
+  }
+
 
 /* ========================= */
 /* Footer */
